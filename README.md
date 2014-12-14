@@ -77,7 +77,9 @@ there are 3 unit test in test package, include function test and multi thread fe
 ```mvn package```
 
 config main class of pom.xml SingleAppRunner/MultiAppRunner in line
-```<mainClass>com.aol.adtech.puzzle.runner.SingleAppRunner</mainClass>```
+```
+<mainClass>com.aol.adtech.puzzle.runner.SingleAppRunner</mainClass>
+```
 
 
 
